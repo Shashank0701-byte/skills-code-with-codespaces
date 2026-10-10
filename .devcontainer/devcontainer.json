@@ -9,8 +9,7 @@
     },
     "ghcr.io/devcontainers/features/node:1": {
       "version": "20"
-    },
-    "ghcr.io/devcontainer-config/features/dot-config:5": {}
+    }
   },
   "customizations": {
     "vscode": {
